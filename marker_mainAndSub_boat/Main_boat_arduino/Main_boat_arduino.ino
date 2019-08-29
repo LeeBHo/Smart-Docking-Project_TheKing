@@ -1,6 +1,6 @@
 #include <SoftwareSerial.h>
 
-SoftwareSerial btSerial(7,8);
+SoftwareSerial btSerial(7,6);
 
 #define TRIG 3
 #define ECHO 4
